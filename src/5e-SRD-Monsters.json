@@ -203,7 +203,6 @@
         ]
       }
     ],
-    "image": "/api/images/monsters/aboleth.png",
     "url": "/api/monsters/aboleth"
   },
   {
@@ -334,7 +333,6 @@
         ]
       }
     ],
-    "image": "/api/images/monsters/acolyte.png",
     "url": "/api/monsters/acolyte"
   },
   {
@@ -592,7 +590,6 @@
         ]
       }
     ],
-    "image": "/api/images/monsters/adult-black-dragon.png",
     "url": "/api/monsters/adult-black-dragon"
   },
   {
@@ -3200,7 +3197,6 @@
         }
       }
     ],
-    "image": "/api/images/monsters/air-elemental.png",
     "url": "/api/monsters/air-elemental"
   },
   {
@@ -3458,7 +3454,6 @@
         ]
       }
     ],
-    "image": "/api/images/monsters/ancient-black-dragon.png",
     "url": "/api/monsters/ancient-black-dragon"
   },
   {
@@ -6400,7 +6395,6 @@
         ]
       }
     ],
-    "image": "/api/images/monsters/animated-armor.png",
     "url": "/api/monsters/animated-armor"
   },
   {
@@ -6503,7 +6497,6 @@
         ]
       }
     ],
-    "image": "/api/images/monsters/ankheg.png",
     "url": "/api/monsters/ankheg"
   },
   {
@@ -6603,7 +6596,6 @@
         ]
       }
     ],
-    "image": "/api/images/monsters/ape.png",
     "url": "/api/monsters/ape"
   },
   {
@@ -6887,7 +6879,6 @@
         ]
       }
     ],
-    "image": "/api/images/monsters/archmage.png",
     "url": "/api/monsters/archmage"
   },
   {
@@ -7077,7 +7068,6 @@
         ]
       }
     ],
-    "image":"/api/images/monsters/assassin.png",
     "url": "/api/monsters/assassin"
   },
   {
@@ -7143,7 +7133,6 @@
         ]
       }
     ],
-    "image":"/api/images/monsters/awakened-shrub.png",
     "url": "/api/monsters/awakened-shrub"
   },
   {
@@ -7210,7 +7199,6 @@
         ]
       }
     ],
-    "image":"/api/images/monsters/awakened-tree.png",
     "url": "/api/monsters/awakened-tree"
   },
   {
@@ -7266,7 +7254,6 @@
         ]
       }
     ],
-    "image": "/api/images/monsters/axe-beak.png",
     "url": "/api/monsters/axe-beak"
   },
   {
@@ -8926,7 +8913,6 @@
         ]
       }
     ],
-    "images": "/api/images/monsters/black-dragon-wyrmling.png",
     "url": "/api/monsters/black-dragon-wyrmling"
   },
   {
@@ -12223,7 +12209,6 @@
         ]
       }
     ],
-    "image": "/api/images/monsters/crocodile.png",
     "url": "/api/monsters/crocodile"
   },
   {
@@ -14677,7 +14662,6 @@
         }
       }
     ],
-    "image": "/api/images/monsters/dryad.png",
     "url": "/api/monsters/dryad"
   },
   {
@@ -15119,7 +15103,6 @@
         ]
       }
     ],
-    "image": "/api/images/monsters/earth-elemental.png",
     "url": "/api/monsters/earth-elemental"
   },
   {
@@ -20496,7 +20479,6 @@
         ]
       }
     ],
-    "image": "/api/images/monsters/goblin.png",
     "url": "/api/monsters/goblin"
   },
   {
@@ -27492,7 +27474,6 @@
         ]
       }
     ],
-    "image": "/api/images/monsters/mimic.png",
     "url": "/api/monsters/mimic"
   },
   {
@@ -39545,7 +39526,6 @@
         ]
       }
     ],
-    "image": "/api/images/monsters/warhorse.png",
     "url": "/api/monsters/warhorse"
   },
   {
@@ -39769,7 +39749,6 @@
         ]
       }
     ],
-    "image": "/api/images/monsters/water-elemental.png",
     "url": "/api/monsters/water-elemental"
   },
   {
@@ -39847,7 +39826,6 @@
         ]
       }
     ],
-    "image": "/api/images/monsters/weasel.png",
     "url": "/api/monsters/weasel"
   },
   {
@@ -42157,7 +42135,6 @@
         ]
       }
     ],
-    "image": "/api/images/monsters/wight.png",
     "url": "/api/monsters/wight"
   },
   {
@@ -42292,7 +42269,6 @@
         "desc": "The will-o'-wisp and its light magically become invisible until it attacks or uses its Consume Life, or until its concentration ends (as if concentrating on a spell)."
       }
     ],
-    "image": "/api/images/monsters/will-o-wisp.png",
     "url": "/api/monsters/will-o-wisp"
   },
   {
@@ -42409,7 +42385,6 @@
         ]
       }
     ],
-    "image": "/api/images/monsters/winter-wolf.png",
     "url": "/api/monsters/winter-wolf"
   },
   {
@@ -42491,7 +42466,6 @@
         ]
       }
     ],
-    "image": "/api/images/monsters/wolf.png",
     "url": "/api/monsters/wolf"
   },
   {
@@ -42563,7 +42537,6 @@
         ]
       }
     ],
-    "image": "/api/images/monsters/worg.png",
     "url": "/api/monsters/worg"
   },
   {
@@ -42686,7 +42659,6 @@
         "desc": "The wraith targets a humanoid within 10 feet of it that has been dead for no longer than 1 minute and died violently. The target's spirit rises as a specter in the space of its corpse or in the nearest unoccupied space. The specter is under the wraith's control. The wraith can have no more than seven specters under its control at one time."
       }
     ],
-    "image": "/api/images/monsters/wraith.png",
     "url": "/api/monsters/wraith"
   },
   {
@@ -42969,7 +42941,6 @@
         ]
       }
     ],
-    "image": "/api/images/monsters/xorn.png",
     "url": "/api/monsters/xorn"
   },
   {
@@ -43153,7 +43124,6 @@
         ]
       }
     ],
-    "image": "/api/images/monsters/young-black-dragon.png",
     "url": "/api/monsters/young-black-dragon"
   },
   {
@@ -45009,7 +44979,6 @@
         ]
       }
     ],
-    "image": "/api/images/monsters/zombie.png",
     "url": "/api/monsters/zombie"
   }
 ]
