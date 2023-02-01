@@ -39,7 +39,6 @@ bullseye
 caltrops
 cantrip
 cantrips
-carceri
 celestials
 chittering
 chrysolite
@@ -86,8 +85,8 @@ evokers
 extradimensional
 extraplanar
 eyebite
+eyestalker
 feeblemind
-feywild
 forbiddance
 forcecage
 fraz
@@ -104,7 +103,6 @@ goblinoid
 goblinoids
 golem
 goodberry
-goristro
 grappler
 greataxe
 greataxes
@@ -204,7 +202,6 @@ rudnogg
 sahuagin
 scrying
 sealable
-shadowfell
 shapechange
 shapechanger
 shapechangers
@@ -242,7 +239,6 @@ truesight
 ultroloths
 undeath
 undercommon
-underdark
 unexpended
 unworked
 vampiric

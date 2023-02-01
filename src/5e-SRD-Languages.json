@@ -128,7 +128,7 @@
     "index": "undercommon",
     "name": "Undercommon",
     "type": "Exotic",
-    "typical_speakers": ["Underdark traders"],
+    "typical_speakers": ["Underworld traders"],
     "script": "Elvish",
     "url": "/api/languages/undercommon"
   }

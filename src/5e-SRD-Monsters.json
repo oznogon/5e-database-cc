@@ -17212,7 +17212,7 @@
     "special_abilities": [
       {
         "name": "Ethereal Sight",
-        "desc": "The ghost can see 60 ft. into the Ethereal Plane when it is on the Material Plane, and vice versa."
+        "desc": "The ghost can see 60 ft. into the ethereal plane when it is on the material plane, and vice versa."
       },
       {
         "name": "Incorporeal Movement",
@@ -17237,7 +17237,7 @@
       },
       {
         "name": "Etherealness",
-        "desc": "The ghost enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can't affect or be affected by anything on the other plane."
+        "desc": "The ghost enters the ethereal plane from the material plane, or vice versa. It is visible on the material plane while it is in the ethereal border, and vice versa, yet it can't affect or be affected by anything on the other plane."
       },
       {
         "name": "Horrifying Visage",
@@ -18106,7 +18106,7 @@
   {
     "index": "giant-elk",
     "name": "Giant Elk",
-    "desc": "The majestic giant elk is rare to the point that its appearance is often taken as a foreshadowing of an important event, such as the birth of a king. Legends tell of gods that take the form of giant elk when visiting the Material Plane. Many cultures therefore believe that to hunt these creatures is to invite divine wrath.",
+    "desc": "The majestic giant elk is rare to the point that its appearance is often taken as a foreshadowing of an important event, such as the birth of a king. Legends tell of gods that take the form of giant elk when visiting the material plane. Many cultures therefore believe that to hunt these creatures is to invite divine wrath.",
     "size": "Huge",
     "type": "beast",
     "alignment": "unaligned",
@@ -28549,11 +28549,11 @@
       },
       {
         "name": "Etherealness",
-        "desc": "The hag magically enters the Ethereal Plane from the Material Plane, or vice versa. To do so, the hag must have a heartstone in her possession."
+        "desc": "The hag magically enters the ethereal plane from the material plane, or vice versa. To do so, the hag must have a heartstone in her possession."
       },
       {
         "name": "Nightmare Haunting",
-        "desc": "While on the Ethereal Plane, the hag magically touches a sleeping humanoid on the Material Plane. A protection from evil and good spell cast on the target prevents this contact, as does a magic circle. As long as the contact persists, the target has dreadful visions. If these visions last for at least 1 hour, the target gains no benefit from its rest, and its hit point maximum is reduced by 5 (1d10). If this effect reduces the target's hit point maximum to 0, the target dies, and if the target was evil, its soul is trapped in the hag's soul bag. The reduction to the target's hit point maximum lasts until removed by the greater restoration spell or similar magic.",
+        "desc": "While on the ethereal plane, the hag magically touches a sleeping humanoid on the material plane. A protection from evil and good spell cast on the target prevents this contact, as does a magic circle. As long as the contact persists, the target has dreadful visions. If these visions last for at least 1 hour, the target gains no benefit from its rest, and its hit point maximum is reduced by 5 (1d10). If this effect reduces the target's hit point maximum to 0, the target dies, and if the target was evil, its soul is trapped in the hag's soul bag. The reduction to the target's hit point maximum lasts until removed by the greater restoration spell or similar magic.",
         "usage": {
           "type": "per day",
           "times": 1
@@ -28636,7 +28636,7 @@
       },
       {
         "name": "Ethereal Stride",
-        "desc": "The nightmare and up to three willing creatures within 5 feet of it magically enter the Ethereal Plane from the Material Plane, or vice versa."
+        "desc": "The nightmare and up to three willing creatures within 5 feet of it magically enter the ethereal plane from the material plane, or vice versa."
       }
     ],
     "url": "/api/monsters/nightmare"
@@ -29967,7 +29967,7 @@
   {
     "index": "phase-spider",
     "name": "Phase Spider",
-    "desc": "A phase spider possesses the magical ability to phase in and out of the Ethereal Plane. It seems to appear out of nowhere and quickly vanishes after attacking. Its movement on the Ethereal Plane before coming back to the Material Plane makes it seem like it can teleport.",
+    "desc": "A phase spider possesses the magical ability to phase in and out of the ethereal plane. It seems to appear out of nowhere and quickly vanishes after attacking. Its movement on the ethereal plane before coming back to the material plane makes it seem like it can teleport.",
     "size": "Large",
     "type": "monstrosity",
     "alignment": "unaligned",
@@ -30014,7 +30014,7 @@
     "special_abilities": [
       {
         "name": "Ethereal Jaunt",
-        "desc": "As a bonus action, the spider can magically shift from the Material Plane to the Ethereal Plane, or vice versa."
+        "desc": "As a bonus action, the spider can magically shift from the material plane to the ethereal plane, or vice versa."
       },
       {
         "name": "Spider Climb",
@@ -35985,7 +35985,7 @@
       },
       {
         "name": "Etherealness",
-        "desc": "The fiend magically enters the Ethereal Plane from the Material Plane, or vice versa."
+        "desc": "The fiend magically enters the ethereal plane from the material plane, or vice versa."
       }
     ],
     "url": "/api/monsters/succubus-incubus"

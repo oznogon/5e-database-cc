@@ -7094,9 +7094,9 @@
           "url": "/api/features/eldritch-invocation-lifedrinker"
         },
         {
-          "index": "eldritch-invocation-chains-of-carceri",
-          "name": "Eldritch Invocation: Chains of Carceri",
-          "url": "/api/features/eldritch-invocation-chains-of-carceri"
+          "index": "eldritch-invocation-chains-of-the-deodand",
+          "name": "Eldritch Invocation: Chains of the Deodand",
+          "url": "/api/features/eldritch-invocation-chains-of-the-deodand"
         },
         {
           "index": "eldritch-invocation-master-of-myriad-forms",
@@ -7767,13 +7767,13 @@
     "url": "/api/features/eldritch-invocation-lifedrinker"
   },
   {
-    "index": "eldritch-invocation-chains-of-carceri",
+    "index": "eldritch-invocation-chains-of-the-deodand",
     "class": {
       "index": "warlock",
       "name": "Warlock",
       "url": "/api/classes/warlock"
     },
-    "name": "Eldritch Invocation: Chains of Carceri",
+    "name": "Eldritch Invocation: Chains of the Deodand",
     "level": 15,
     "prerequisites": [
       {
@@ -7793,7 +7793,7 @@
       "name": "Eldritch Invocations",
       "url": "/api/features/eldritch-invocations"
     },
-    "url": "/api/features/eldritch-invocation-chains-of-carceri"
+    "url": "/api/features/eldritch-invocation-chains-of-the-deodand"
   },
   {
     "index": "eldritch-invocation-master-of-myriad-forms",
